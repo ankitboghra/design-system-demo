@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import { Button, Header } from "matic-design-system";
+import { Button, Header } from "ankit-design-system-vue";
 
 export default {
   name: "App",
